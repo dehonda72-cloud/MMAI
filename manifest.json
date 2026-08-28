@@ -1,12 +1,21 @@
 {
-  "background_color": "#ffffff",
-  "dir": "ltr",
-  "display": "standalone",
   "name": "MathMindAI",
-  "orientation": "any",
-  "scope": "/",
   "short_name": "MMAI",
   "start_url": "/",
-  "theme_color": "#ffffff",
-  "lang": "ru"
+  "display": "standalone",
+  "background_color": "#080a10",
+  "theme_color": "#080a10",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "https://dehonda72-cloud.github.io/MMAI/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://dehonda72-cloud.github.io/MMAI/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
