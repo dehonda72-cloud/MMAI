@@ -1,7 +1,8 @@
 {
   "name": "MathMindAI",
   "short_name": "MMAI",
-  "start_url": "/",
+  "start_url": "/MMAI/",
+  "scope": "/MMAI/",
   "display": "standalone",
   "background_color": "#080a10",
   "theme_color": "#080a10",
